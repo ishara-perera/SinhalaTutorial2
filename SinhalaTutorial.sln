@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SinhalaTutorial", "SinhalaTutorial\SinhalaTutorial.csproj", "{6264287A-7F50-4FEE-B16C-9A1A85F035E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6264287A-7F50-4FEE-B16C-9A1A85F035E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6264287A-7F50-4FEE-B16C-9A1A85F035E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6264287A-7F50-4FEE-B16C-9A1A85F035E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6264287A-7F50-4FEE-B16C-9A1A85F035E0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
