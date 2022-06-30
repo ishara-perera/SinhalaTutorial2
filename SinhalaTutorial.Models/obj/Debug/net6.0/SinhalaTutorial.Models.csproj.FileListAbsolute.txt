@@ -1,0 +1,12 @@
+D:\Virtusa\Jetbrain Rider Projects\SinhalaTutorial\SinhalaTutorial.Models\bin\Debug\net6.0\SinhalaTutorial.Models.deps.json
+D:\Virtusa\Jetbrain Rider Projects\SinhalaTutorial\SinhalaTutorial.Models\bin\Debug\net6.0\SinhalaTutorial.Models.dll
+D:\Virtusa\Jetbrain Rider Projects\SinhalaTutorial\SinhalaTutorial.Models\bin\Debug\net6.0\SinhalaTutorial.Models.pdb
+D:\Virtusa\Jetbrain Rider Projects\SinhalaTutorial\SinhalaTutorial.Models\obj\Debug\net6.0\SinhalaTutorial.Models.csproj.AssemblyReference.cache
+D:\Virtusa\Jetbrain Rider Projects\SinhalaTutorial\SinhalaTutorial.Models\obj\Debug\net6.0\SinhalaTutorial.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Virtusa\Jetbrain Rider Projects\SinhalaTutorial\SinhalaTutorial.Models\obj\Debug\net6.0\SinhalaTutorial.Models.AssemblyInfoInputs.cache
+D:\Virtusa\Jetbrain Rider Projects\SinhalaTutorial\SinhalaTutorial.Models\obj\Debug\net6.0\SinhalaTutorial.Models.AssemblyInfo.cs
+D:\Virtusa\Jetbrain Rider Projects\SinhalaTutorial\SinhalaTutorial.Models\obj\Debug\net6.0\SinhalaTutorial.Models.csproj.CoreCompileInputs.cache
+D:\Virtusa\Jetbrain Rider Projects\SinhalaTutorial\SinhalaTutorial.Models\obj\Debug\net6.0\SinhalaTutorial.Models.dll
+D:\Virtusa\Jetbrain Rider Projects\SinhalaTutorial\SinhalaTutorial.Models\obj\Debug\net6.0\refint\SinhalaTutorial.Models.dll
+D:\Virtusa\Jetbrain Rider Projects\SinhalaTutorial\SinhalaTutorial.Models\obj\Debug\net6.0\SinhalaTutorial.Models.pdb
+D:\Virtusa\Jetbrain Rider Projects\SinhalaTutorial\SinhalaTutorial.Models\obj\Debug\net6.0\ref\SinhalaTutorial.Models.dll

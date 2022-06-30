@@ -72,6 +72,29 @@
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
         ]
+      },
+      "SinhalaTutorial.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/SinhalaTutorial.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SinhalaTutorial.Models.dll": {}
+        }
+      },
+      "SinhalaTutorial.Services/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "SinhalaTutorial.Models": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/SinhalaTutorial.Services.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SinhalaTutorial.Services.dll": {}
+        }
       }
     }
   },
@@ -200,10 +223,21 @@
         "swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
         "swashbuckle.aspnetcore.swaggerui.nuspec"
       ]
+    },
+    "SinhalaTutorial.Models/1.0.0": {
+      "type": "project",
+      "path": "../SinhalaTutorial.Models/SinhalaTutorial.Models.csproj",
+      "msbuildProject": "../SinhalaTutorial.Models/SinhalaTutorial.Models.csproj"
+    },
+    "SinhalaTutorial.Services/1.0.0": {
+      "type": "project",
+      "path": "../SinhalaTutorial.Services/SinhalaTutorial.Services.csproj",
+      "msbuildProject": "../SinhalaTutorial.Services/SinhalaTutorial.Services.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "SinhalaTutorial.Services >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.2.3"
     ]
   },
@@ -233,7 +267,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\Virtusa\\Jetbrain Rider Projects\\SinhalaTutorial\\SinhalaTutorial.Services\\SinhalaTutorial.Services.csproj": {
+              "projectPath": "D:\\Virtusa\\Jetbrain Rider Projects\\SinhalaTutorial\\SinhalaTutorial.Services\\SinhalaTutorial.Services.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

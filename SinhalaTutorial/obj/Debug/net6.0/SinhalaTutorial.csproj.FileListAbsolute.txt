@@ -25,3 +25,7 @@ D:\Virtusa\Jetbrain Rider Projects\SinhalaTutorial\SinhalaTutorial\obj\Debug\net
 D:\Virtusa\Jetbrain Rider Projects\SinhalaTutorial\SinhalaTutorial\obj\Debug\net6.0\SinhalaTutorial.pdb
 D:\Virtusa\Jetbrain Rider Projects\SinhalaTutorial\SinhalaTutorial\obj\Debug\net6.0\SinhalaTutorial.genruntimeconfig.cache
 D:\Virtusa\Jetbrain Rider Projects\SinhalaTutorial\SinhalaTutorial\obj\Debug\net6.0\ref\SinhalaTutorial.dll
+D:\Virtusa\Jetbrain Rider Projects\SinhalaTutorial\SinhalaTutorial\bin\Debug\net6.0\SinhalaTutorial.Models.dll
+D:\Virtusa\Jetbrain Rider Projects\SinhalaTutorial\SinhalaTutorial\bin\Debug\net6.0\SinhalaTutorial.Services.dll
+D:\Virtusa\Jetbrain Rider Projects\SinhalaTutorial\SinhalaTutorial\bin\Debug\net6.0\SinhalaTutorial.Services.pdb
+D:\Virtusa\Jetbrain Rider Projects\SinhalaTutorial\SinhalaTutorial\bin\Debug\net6.0\SinhalaTutorial.Models.pdb

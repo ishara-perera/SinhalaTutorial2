@@ -1,7 +1,7 @@
 ﻿using SinhalaTutorial.Models;
 namespace SinhalaTutorial.TodoServices;
 
-public class TodoService
+public class TodoService : ITodoRepository
 {
     public List<Todo> AllTodos()
     {

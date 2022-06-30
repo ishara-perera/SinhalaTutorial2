@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SinhalaTutorial.Services/1.0.0": {
+        "dependencies": {
+          "SinhalaTutorial.Models": "1.0.0"
+        },
+        "runtime": {
+          "SinhalaTutorial.Services.dll": {}
+        }
+      },
+      "SinhalaTutorial.Models/1.0.0": {
+        "runtime": {
+          "SinhalaTutorial.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SinhalaTutorial.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SinhalaTutorial.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
