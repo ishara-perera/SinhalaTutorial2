@@ -1,5 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using SinhalaTutorial.TodoServices;
+using SinhalaTutorial.Services.Todos;
 
 namespace SinhalaTutorial.Controllers;
 
@@ -11,12 +11,19 @@ public class TodosController : Controller
         _todoService = repository;
     }
     
-    [HttpGet("{id?}")]
-    public ActionResult GetTodos(int? id)
+    [HttpGet("todo/{id}")]
+    public IActionResult GetTodos(int id)
     {
-        var allTodos = _todoService.AllTodos();
-        if (id is null) return Ok(allTodos);
-        allTodos = allTodos.Where(t => t.Id == id).ToList();
-        return Ok(allTodos);
+        var todo = _todoService.GetTodo(id);
+        if (todo is null)
+            return NotFound();
+        return Ok(todo);
+    }
+
+    [HttpGet("todos")]
+    public IActionResult GetAllTodos()
+    {
+        var todos = _todoService.AllTodos();
+        return Ok(todos);
     }
 }

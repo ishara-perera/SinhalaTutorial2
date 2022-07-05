@@ -1,0 +1,17 @@
+D:\Virtusa\Jetbrain Rider Projects\SinhalaTutorial\SinhalaTutorial.DataAccess\bin\Debug\net6.0\SinhalaTutorial.DataAccess.deps.json
+D:\Virtusa\Jetbrain Rider Projects\SinhalaTutorial\SinhalaTutorial.DataAccess\bin\Debug\net6.0\SinhalaTutorial.DataAccess.runtimeconfig.json
+D:\Virtusa\Jetbrain Rider Projects\SinhalaTutorial\SinhalaTutorial.DataAccess\bin\Debug\net6.0\SinhalaTutorial.DataAccess.dll
+D:\Virtusa\Jetbrain Rider Projects\SinhalaTutorial\SinhalaTutorial.DataAccess\bin\Debug\net6.0\SinhalaTutorial.DataAccess.pdb
+D:\Virtusa\Jetbrain Rider Projects\SinhalaTutorial\SinhalaTutorial.DataAccess\bin\Debug\net6.0\SinhalaTutorial.Models.dll
+D:\Virtusa\Jetbrain Rider Projects\SinhalaTutorial\SinhalaTutorial.DataAccess\bin\Debug\net6.0\SinhalaTutorial.Models.pdb
+D:\Virtusa\Jetbrain Rider Projects\SinhalaTutorial\SinhalaTutorial.DataAccess\obj\Debug\net6.0\SinhalaTutorial.DataAccess.csproj.AssemblyReference.cache
+D:\Virtusa\Jetbrain Rider Projects\SinhalaTutorial\SinhalaTutorial.DataAccess\obj\Debug\net6.0\SinhalaTutorial.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Virtusa\Jetbrain Rider Projects\SinhalaTutorial\SinhalaTutorial.DataAccess\obj\Debug\net6.0\SinhalaTutorial.DataAccess.AssemblyInfoInputs.cache
+D:\Virtusa\Jetbrain Rider Projects\SinhalaTutorial\SinhalaTutorial.DataAccess\obj\Debug\net6.0\SinhalaTutorial.DataAccess.AssemblyInfo.cs
+D:\Virtusa\Jetbrain Rider Projects\SinhalaTutorial\SinhalaTutorial.DataAccess\obj\Debug\net6.0\SinhalaTutorial.DataAccess.csproj.CoreCompileInputs.cache
+D:\Virtusa\Jetbrain Rider Projects\SinhalaTutorial\SinhalaTutorial.DataAccess\obj\Debug\net6.0\SinhalaTutorial.DataAccess.csproj.CopyComplete
+D:\Virtusa\Jetbrain Rider Projects\SinhalaTutorial\SinhalaTutorial.DataAccess\obj\Debug\net6.0\SinhalaTutorial.DataAccess.dll
+D:\Virtusa\Jetbrain Rider Projects\SinhalaTutorial\SinhalaTutorial.DataAccess\obj\Debug\net6.0\refint\SinhalaTutorial.DataAccess.dll
+D:\Virtusa\Jetbrain Rider Projects\SinhalaTutorial\SinhalaTutorial.DataAccess\obj\Debug\net6.0\SinhalaTutorial.DataAccess.pdb
+D:\Virtusa\Jetbrain Rider Projects\SinhalaTutorial\SinhalaTutorial.DataAccess\obj\Debug\net6.0\SinhalaTutorial.DataAccess.genruntimeconfig.cache
+D:\Virtusa\Jetbrain Rider Projects\SinhalaTutorial\SinhalaTutorial.DataAccess\obj\Debug\net6.0\ref\SinhalaTutorial.DataAccess.dll

@@ -13,3 +13,5 @@ D:\Virtusa\Jetbrain Rider Projects\SinhalaTutorial\SinhalaTutorial.Services\obj\
 D:\Virtusa\Jetbrain Rider Projects\SinhalaTutorial\SinhalaTutorial.Services\obj\Debug\net6.0\refint\SinhalaTutorial.Services.dll
 D:\Virtusa\Jetbrain Rider Projects\SinhalaTutorial\SinhalaTutorial.Services\obj\Debug\net6.0\SinhalaTutorial.Services.pdb
 D:\Virtusa\Jetbrain Rider Projects\SinhalaTutorial\SinhalaTutorial.Services\obj\Debug\net6.0\ref\SinhalaTutorial.Services.dll
+D:\Virtusa\Jetbrain Rider Projects\SinhalaTutorial\SinhalaTutorial.Services\bin\Debug\net6.0\SinhalaTutorial.DataAccess.dll
+D:\Virtusa\Jetbrain Rider Projects\SinhalaTutorial\SinhalaTutorial.Services\bin\Debug\net6.0\SinhalaTutorial.DataAccess.pdb
